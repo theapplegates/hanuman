@@ -53,7 +53,7 @@ repo: hanuman #github repository
 branch: master #branch
 relative_source: ../hanuman/ #source directory
 destination: ../hanuman-pages/ #destination directory
-production_url:  https://samanyougarg.com/
+production_url:  https://infallible-bell-d556c7.netlify.com/
 source_url:  https://github.com/samanyougarg/hanuman #source repository url
 
 exclude:
