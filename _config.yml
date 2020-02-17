@@ -5,7 +5,7 @@ cover: assets/images/radhakrishna.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
 baseurl: "" # the subpath of your site, e.g. /blog/ or / for root
-url: "https://optimistic-bardeen-66fe3c.netlify.com" # the base hostname & protocol for your site
+url: "https://infallible-bell-d556c7.netlify.com" # the base hostname & protocol for your site
 theme: hanuman
 
 pagination:
